@@ -28,8 +28,12 @@ What did I learn while building this project?
 
 ## In-game picture
 
-![Screenshot 2024-05-22 183332](c:\Users\Unnat Malik\OneDrive\Pictures\Screenshots\Screenshot 2024-06-15 204736.png c:\Users\Unnat Malik\OneDrive\Pictures\Screenshots\Screenshot 2024-06-15 204745.png)
-
-![Screenshot 2024-05-22 183332](c:\Users\Unnat Malik\OneDrive\Pictures\Screenshots\Screenshot 2024-06-15 204824.png)
+![Screenshot 2024-06-15 204736](https://github.com/UnnatMalik/Pong-game/assets/160745526/e2f0b32f-e758-410f-87a0-4031b39e593b)
+- User can enter their name
 
 ## In-game 
+
+
+https://github.com/UnnatMalik/Pong-game/assets/160745526/6d7fbd43-1b33-4fef-81dc-0d37f7b106e0
+
+
